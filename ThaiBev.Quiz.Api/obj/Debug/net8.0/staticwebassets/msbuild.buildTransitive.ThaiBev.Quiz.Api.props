@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/ThaiBev.Quiz.Api.props" />
-</Project>
